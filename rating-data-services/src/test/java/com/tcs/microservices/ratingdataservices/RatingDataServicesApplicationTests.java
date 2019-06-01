@@ -1,4 +1,4 @@
-package com.javabrains.microservices;
+package com.tcs.microservices.ratingdataservices;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class MovieInfoServicesApplicationTests {
+public class RatingDataServicesApplicationTests {
 
 	@Test
 	public void contextLoads() {

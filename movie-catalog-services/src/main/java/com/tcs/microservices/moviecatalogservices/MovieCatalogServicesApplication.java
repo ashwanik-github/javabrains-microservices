@@ -1,13 +1,13 @@
-package com.javabrains.microservices;
+package com.tcs.microservices.moviecatalogservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MovieInfoServicesApplication {
+public class MovieCatalogServicesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MovieInfoServicesApplication.class, args);
+		SpringApplication.run(MovieCatalogServicesApplication.class, args);
 	}
 
 }

@@ -1,13 +1,13 @@
-package com.javabrains.microservices;
+package com.tcs.microservices.ratingdataservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MovieInfoServicesApplication {
+public class RatingDataServicesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MovieInfoServicesApplication.class, args);
+		SpringApplication.run(RatingDataServicesApplication.class, args);
 	}
 
 }

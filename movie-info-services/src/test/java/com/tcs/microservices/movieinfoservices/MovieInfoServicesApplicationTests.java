@@ -1,4 +1,4 @@
-package com.javabrains.microservices;
+package com.tcs.microservices.movieinfoservices;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
